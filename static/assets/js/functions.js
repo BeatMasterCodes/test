@@ -22,9 +22,16 @@ function widget () {
 
     window.navigator.serviceWorker.register('/sw.js', {
         scope: __uv$config.prefix
-    }).then(() => {
-        location.href=__uv$config.prefix + __uv$config.encodeUrl('https://e.widgetbot.io/channels/1107344487958724681/1118576886038143157');
-    });
+    }).then() => {<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+    new Crate({
+        server: '1124689729984659570', // Gladiator Network
+        channel: '1124689731607875643' // #🤖┆commands
+    })
+</script>
+      
+   
+
+
 
 }
 

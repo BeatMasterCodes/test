@@ -1,7 +1,7 @@
 {
-  "name": "snorlaxcave",
+  "name": "Gladiator Network",
   "version": "1.0.0",
-  "description": "Snorlax's Cave",
+  "description": "Gladiator Network",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
